@@ -1,0 +1,7 @@
+                     N       M       mispredictions   misprediction rate   BTB misses   BTB miss rate
+sys1 - gcc.xac       NA      NA      80510            0.432829             NA           NA
+sys1 - sjeng.xac     NA	     NA      95195            0.552044             NA           NA
+sys2 - gcc.xac       128     32      59884            0.321941             73179        0.692563
+sys2 - gcc.xac       512     128     40096            0.215559             59082        0.569147
+sys2 - sjeng.xac     128     32      30156            0.174877             50589        0.449005
+sys2 - sjeng.xac     512     128     23342            0.135362             26694        0.238069
